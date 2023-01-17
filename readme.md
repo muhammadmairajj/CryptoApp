@@ -1,10 +1,8 @@
-# DR. Crypto
+# Crypto App
 
 simple crypto currency monitoring with coingecko api.
 
-live at : https://drcrypto.netlify.app
-
-### things are used
+### Features
 
 - React JS
 - Tailwindcss
